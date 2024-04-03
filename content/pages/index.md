@@ -40,5 +40,5 @@ save_as: index.html
 
 ## Arsenal Stuff+
 
-![Arsenal Stuff+](images/aresenal-stuff.png)
+![Arsenal Stuff+](images/arsenal-stuff.png)
 
