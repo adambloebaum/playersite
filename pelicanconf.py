@@ -1,5 +1,5 @@
 AUTHOR = 'Adam Bloebaum'
-SITENAME = 'Player Profile'
+SITENAME = 'Adam Bloebaum'
 SITEURL = ""
 
 PATH = "content"
