@@ -1,5 +1,5 @@
 AUTHOR = 'Adam Bloebaum'
-SITENAME = 'Adam Bloebaum'
+SITENAME = 'Player Profile'
 SITEURL = ""
 
 PATH = "content"
@@ -17,17 +17,21 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ('1/5/24 Live ABs', ''),
+    ('1/12/24 Live ABs', ''),
+    ('2/3/24 Live ABs', ''),
+    ('2/10/24 Live ABs', ''),
+    ('2/23/24 Live ABs', '')
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ('Phone', 'tel:+9199959277'),
+    ('Email', 'mailto:adam.bloebaum@gmail.com'),
+    ('LinkedIn', 'https://www.linkedin.com/in/adambloebaum'),
+    ('Twitter', 'https://twitter.com/bl0ebaum'),
 )
+
 
 DEFAULT_PAGINATION = False
 

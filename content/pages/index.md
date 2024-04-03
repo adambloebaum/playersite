@@ -2,17 +2,38 @@ Title: Player Profile
 URL:
 save_as: index.html
 
-I'm a 22yo 6'5" low 90s LHP with 4 plus secondary pitches looking for an affiliate opportunity. Last year in the Pioneer League I had:
+I'm a 22 year old 6'5" low 90s LHP with 4 plus secondary pitches looking for an affiliate opportunity. Last year in the Pioneer League I had:
 
 - 161 ERA+
 - 10.6 K/9
 - 2.96 K/BB
 - 63 IP (9 starts)
 
-## Embedded YouTube Video
+## Live AB Highlights
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HhfdQttOius?si=Q273GKBLNS7BWg_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<style>
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  height: 0;
+  margin-bottom: 20px;
+}
 
-## Image
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
+<div class="video-container">
+  <!-- Embed code from YouTube -->
+  <iframe src="https://www.youtube.com/embed/B3auagPuTMI?si=PofJ3pkVQbQYP2uE" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Arsenal Overview
 
 ![Description of image](images/sample.jpg)
