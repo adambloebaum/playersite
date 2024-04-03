@@ -26,7 +26,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ('Text/Call (919)-995-9277', 'sms:+9199959277'),
+    ('Text/Call (919)-995-9277', 'sms:+19199959277'),
     ('Email adam.bloebaum@gmail.com', 'mailto:adam.bloebaum@gmail.com'),
     ('LinkedIn', 'https://www.linkedin.com/in/adambloebaum'),
     ('Twitter', 'https://twitter.com/bl0ebaum'),
