@@ -27,11 +27,27 @@ save_as: index.html
   width: 100%;
   height: 100%;
 }
+
+.video video {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
 </style>
 
 <div class="video-container">
   <!-- Embed code from YouTube -->
   <iframe src="https://www.youtube.com/embed/B3auagPuTMI?si=PofJ3pkVQbQYP2uE" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Side View
+
+<div class="video">
+  <video width="320" height="240" controls>
+    <source src="{static}/videos/side-view.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## Arsenal Overview
