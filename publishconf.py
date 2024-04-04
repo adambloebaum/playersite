@@ -16,7 +16,7 @@ CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
 
-STATIC_PATHS = ['videos']
+STATIC_PATHS = ['images', 'videos']
 
 # Following items are often useful when publishing
 
