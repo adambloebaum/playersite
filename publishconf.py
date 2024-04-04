@@ -16,6 +16,8 @@ CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
 
+STATIC_PATHS = ['videos']
+
 # Following items are often useful when publishing
 
 # DISQUS_SITENAME = ""
