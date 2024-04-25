@@ -45,7 +45,7 @@ save_as: index.html
 
 <div class="video">
   <video width="320" height="240" controls>
-    <source src="{static}/videos/side-view.mp4" type="video/mp4">
+    <source src="{static}/videos/side.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
