@@ -2,7 +2,7 @@ Title: Player Profile
 URL:
 save_as: index.html
 
-22 year old 6'5" LHP with a low 90s fastball (T94) and 3 plus secondary pitches. Currently seeking an affiliate opportunity. Last year in the Pioneer League:
+22 year old 6'5" LHP up to 94mph with 3 plus secondary pitches. Seeking an affiliate opportunity. Last year in the Pioneer League:
 
 - 161 ERA+
 - 10.6 K/9
