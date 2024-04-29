@@ -6,7 +6,7 @@ save_as: index.html
 
 - 161 ERA+
 - 10.6 K/9
-- 2.96 K/BB
+- 3:1 K:BB
 - 63 IP (9 starts)
 
 ## Live AB Highlights
@@ -41,7 +41,7 @@ save_as: index.html
   <iframe src="https://www.youtube.com/embed/B3auagPuTMI?si=PofJ3pkVQbQYP2uE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Side View
+## Side View Mechanics
 
 <div class="video">
   <video width="320" height="240" controls>
@@ -50,11 +50,11 @@ save_as: index.html
   </video>
 </div>
 
-## Arsenal Overview
+## Arsenal Overview (avg)
 
 ![Arsenal Plot](images/arsenal-plot.png)
 
-## Arsenal Stuff+
+## Arsenal Stuff+ (avg)
 
 ![Arsenal Stuff+](images/arsenal-stuff.png)
 
